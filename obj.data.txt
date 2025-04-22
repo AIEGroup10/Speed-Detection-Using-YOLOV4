@@ -1,0 +1,4 @@
+classes=1
+train=/content/drive/MyDrive/darknet/data/train.txt
+names=/content/drive/MyDrive/darknet/data/obj.names.txt
+backup=/content/drive/MyDrive/darknet/backup
